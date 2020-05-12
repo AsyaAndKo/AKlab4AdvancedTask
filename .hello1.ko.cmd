@@ -1,1 +1,0 @@
-cmd_/home/damn_lestat/CLionProjects/AKlab4ADVANCED/hello1.ko := ccache arm-eabi-ld -r  -EL -T ./scripts/module-common.lds -T ./arch/arm/kernel/module.lds  --build-id  -o /home/damn_lestat/CLionProjects/AKlab4ADVANCED/hello1.ko /home/damn_lestat/CLionProjects/AKlab4ADVANCED/hello1.o /home/damn_lestat/CLionProjects/AKlab4ADVANCED/hello1.mod.o ;  true
